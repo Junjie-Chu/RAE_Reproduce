@@ -10,7 +10,7 @@ In **model** package, there are three models including Deep Autoencoder, Variati
 
 In **outputs**, we have put all the result plots into that folder.  
 
-In **shrink** package, it contains $l_1shrink$ and $l_{2,1}shrink$ which is used to calculate proximal gradiant.  
+In **shrink** package, it contains ***l_1shrink*** and ***l_{2,1}shrink*** which is used to calculate proximal gradiant.  
 
 **ImShow.py** is used to plot the image in a standard way.  
 
@@ -23,4 +23,4 @@ In **shrink** package, it contains $l_1shrink$ and $l_{2,1}shrink$ which is used
 ***Anomaly Detection with Robust Deep Autoencoders***  
 link here: https://dl.acm.org/doi/abs/10.1145/3097983.3098052?casa_token=9s9oAGTjX_cAAAAA:PfkmKNmrPXjPalWWLTfF_CTbEtfFXapsfWiktUmmlt_xIFgcAfCOFQjBmvJXgt9G87YySLhpV17F4A
 ## Slides of the reproduction
-Read it in DM_Pre.
+Read it in Slides/DM_Pre.
